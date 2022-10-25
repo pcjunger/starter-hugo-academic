@@ -3,8 +3,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
-#activation
-activate: false
+# Activate this widget? true/false
+active: false
 
 # This file represents a page section.
 headless: true
