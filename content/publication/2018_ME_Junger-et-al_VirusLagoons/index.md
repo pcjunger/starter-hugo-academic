@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Flow Citometry", "Virus Production", "Bacterial Production", "Viral Shunt"]
+tags = ["Flow Cytometry", "Virus Production", "Bacterial Production", "Virus"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/article/10.1007/s00248-017-1038-3"
