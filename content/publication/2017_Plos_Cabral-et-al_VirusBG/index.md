@@ -28,25 +28,9 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
-
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Flow Citometry", "Virus", "Microbial Abundances", "Estuary", "Tropics", "Phytoplankton"]
+tags = ["Flow Cytometry", "Virus", "Microbial Abundances", "Estuary", "Tropics", "Phytoplankton"]
 
 # Links (optional).
 url_pdf = "https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0174653/1/pone.0174653.pdf"
