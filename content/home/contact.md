@@ -2,6 +2,9 @@
 # An instance of the Contact widget.
 widget: contact
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -47,10 +50,10 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+ #   - icon: video
+ #    icon_pack: fas
+ #     name: Zoom Me
+ #     link: 'https://zoom.com'
 
 design:
   columns: '2'
