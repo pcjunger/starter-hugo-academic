@@ -26,7 +26,7 @@ abstract = "The aerobic anoxygenic phototrophic (AAP) bacteria are common in mos
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
