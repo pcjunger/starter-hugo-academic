@@ -4,7 +4,7 @@ date = 2022-09-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sebastian Metz", "Paula Huber", "Erick Mateus-Barros", "Pedro C. Junger", "Michaela de Melo", "Inessa Lacativa Bagatini", "Irina Izaguirre", "Mariana Câmara dos Reis", "Maria E. Llames", "Victoria Accattatis", "María Victoria Quiroga", "Melina Devercelli", "María Romina Schiaffino", "Juan Pablo Niño-García", "Marcela Bastidas Navarro", "Beatriz Modenutti", "Helena Vieira", "Martin Saraceno", "Carmen Alejandra Sabio y García", "Emiliano Pereira", "Alvaro González-Revello", "Claudia Piccini", "Fernando Unrein", "Cecilia Alonso", "Hugo Sarmento"]
+authors = ["Sebastian Metz", "Paula Huber", "Erick Mateus-Barros", "Pedro C. Junger", "Michaela de Melo", "Inessa L. Bagatini", "Irina Izaguirre", "Mariana C. dos Reis", "Maria E. Llames", "Victoria Accattatis", "María V. Quiroga", "Melina Devercelli", "María R. Schiaffino", "Juan Pablo Niño-García", "Marcela B. Navarro", "Beatriz Modenutti", "Helena Vieira", "Martin Saraceno", "Carmen A. S. y García", "Emiliano Pereira", "Alvaro González-Revello", "Claudia Piccini", "Fernando Unrein", "Cecilia Alonso", "Hugo Sarmento"]
 
 # Publication type.
 # Legend:
