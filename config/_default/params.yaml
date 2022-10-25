@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal_pedro
-  theme_night: minimal_pedro
+  theme_day: 'minimal_pedro'
+  theme_night: 'minimal_pedro'
   font: classic
   font_size: L
 
