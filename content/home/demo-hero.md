@@ -1,4 +1,7 @@
 ---
+# Activate this widget? true/false
+active: false
+
 widget: hero
 headless: true
 weight: 10
@@ -33,5 +36,4 @@ From landing pages, second brains, and courses to academic resumés, conferences
 <!--GitHub Button JS-->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-# Activate this widget? true/false
-active: false
+
