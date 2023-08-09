@@ -14,17 +14,15 @@ role: Postdoctoral Researcher (IBENS, Paris)
 
 # Organizations/Affiliations
 organizations:
-- name: IBENS
-  url: "http://www.lmpb.ufscar.br/"
-- name: Institut de Biologie de l'École Normale Supérieur
-  url: "https://www2.ufscar.br/"
+- name: Institut de Biologie de l'École Normale Supérieure
+  url: "https://www.ibens.bio.ens.psl.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. in Ecology
+bio: Ph.D. in Ecology & Natural Resources
 
 # Interests to show in About widget
 interests:
-- Microbial Ecology
+- Molecular Ecology
 - Aquatic Ecosystems
 - Data Analysis
 - Open Science
@@ -32,9 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Ecology and Natural Resources
+    - course: Ph.D. in Ecology & Natural Resources
       institution: Universidade Federal de São Carlos
-      year: "in progress"
+      year: 2023
     - course: M.Sc. in Ecology
       institution: Universidade Federal do Rio de Janeiro
       year: 2016
