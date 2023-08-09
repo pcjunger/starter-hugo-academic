@@ -10,21 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student (UFSCar|ICM-CSIC)
+role: Postdoctoral Researcher (IBENS, Paris)
 
 # Organizations/Affiliations
 organizations:
-- name: LMPB
+- name: IBENS
   url: "http://www.lmpb.ufscar.br/"
-- name: Universidade Federal de São Carlos
+- name: Institut de Biologie de l'École Normale Supérieur
   url: "https://www2.ufscar.br/"
-- name: log[lab]
-  url: "http://www.log-lab.barcelona/"
-- name: Institut de Ciències del Mar
-  url: "https://www.icm.csic.es/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MSc in Ecology
+bio: Ph.D. in Ecology
 
 # Interests to show in About widget
 interests:
@@ -88,6 +84,6 @@ email: ""
 #button for downloading the CV
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
-I am an ecologist who got amazed about the fact that tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a planetary scale. I generally attempt to bring together ecological theory and microbial omics data to investigate the distribution, structure and function of microbial communities inhabiting both marine & freshwater ecosystems.
+I am an ecologist who became amazed about the fact that tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a planetary scale. I generally attempt to bring together ecological theory and microbial omics data to investigate the distribution, structure and function of microbial communities inhabiting both marine & freshwater ecosystems.
 
-I am a PhD student in between the [Laboratory of Microbial Processes & Biodiversity](http://www.lmpb.ufscar.br/) (UFSCar, Brazil) and the [Ecology of Marine Microorganisms Research group](https://emm.icm.csic.es/), based at the [Institut de Ciències del Mar](https://www.icm.csic.es/en) (ICM-CSIC, Barcelona). I am currently conducting a project on large-scale ecology & biogeography of marine planktonic communities using Metabarcoding, Metagenomics & Single Cell Genomics.
+I am currently a CNRS postdoctoral researcher at the [Institut de Biologie de l'École Normale Supérieure](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique36&lang=fr) (Paris, France), where I am working on marine biodiversity monitoring using environmental DNA within the framework of the EU-funded [Marco-Bolo](https://marcobolo-project.eu/) project.
