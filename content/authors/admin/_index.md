@@ -82,6 +82,6 @@ email: ""
 #button for downloading the CV
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
-I am an ecologist who became amazed about the fact that tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a planetary scale. I generally attempt to bring together ecological theory and microbial omics data to investigate the distribution, structure and function of microbial communities inhabiting both marine & freshwater ecosystems.
+I am an ecologist amazed about the fact that tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a planetary scale. I generally attempt to bring together ecological theory and microbial omics data to investigate the distribution, structure and function of microbial communities inhabiting both marine & freshwater ecosystems.
 
 I am currently a CNRS postdoctoral researcher at the [Institut de Biologie de l'École Normale Supérieure](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique36&lang=fr) (Paris, France), where I am working on marine biodiversity monitoring using environmental DNA within the framework of the EU-funded [Marco-Bolo](https://marcobolo-project.eu/) project.
