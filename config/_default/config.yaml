@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pedro C Junger # Website name
-baseURL: 'https://pcj.netlify.app/' # Website URL
+baseURL: 'https://pcjunger.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
