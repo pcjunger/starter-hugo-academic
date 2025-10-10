@@ -24,6 +24,7 @@ bio: Ph.D. in Ecology & Natural Resources
 # Interests to show in About widget
 interests:
 - Molecular Ecology
+- Plankton Ecology
 - Aquatic Ecosystems
 - Data Analysis
 - Open Science
