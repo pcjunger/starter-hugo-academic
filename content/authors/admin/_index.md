@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Pedro C Junger
+avatar: "avatar.jpg"
 
 # Username (this should match the folder name)
 authors:
